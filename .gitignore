@@ -1,0 +1,9 @@
+.idea/
+logs*/
+image/
+data/
+embeding/
+weights*/
+
+*.hdf5
+*.p
